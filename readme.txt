@@ -5,3 +5,4 @@ b站：barolo2
 
 欢迎交流和联系，互相学习和进步！
 I love Linux!
+I love git!
